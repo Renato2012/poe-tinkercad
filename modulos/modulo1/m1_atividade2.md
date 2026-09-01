@@ -12,13 +12,13 @@
    * Um LED conectado ao pino digital D13, com resistor de 220 $\Omega$ em série.
 3. Após revisar as ligações, programe o Arduino conforme as questões A, B e C.
 
-![Esquema de ligação com botão e LED](../modulos/figuras/atividade2.png)
+![Esquema de ligação com botão e LED](../figuras/atividade2.png)
 
 ---
 
 ## Questão A — Leitura e Acionamento Direto
 
-* **Código Fonte:** [m1_atividade2_questaoA.ino](../codigos/modulo1/m1_atividade2_questaoA.ino)
+* **Código Fonte:** [m1_atividade2_questaoA.ino](../../codigos/modulo1/m1_atividade2_questaoA.ino)
 
 ```cpp
 int ledPin = 13;
@@ -48,7 +48,7 @@ Após executar a simulação, descreva como o LED se comportou e explique como a
 
 Altere o programa para inverter o comportamento do LED.
 
-* **Código Fonte:** [m1_atividade2_questaoB.ino](../codigos/modulo1/m1_atividade2_questaoB.ino)
+* **Código Fonte:** [m1_atividade2_questaoB.ino](../../codigos/modulo1/m1_atividade2_questaoB.ino)
 
 ```cpp
 void setup() {}
@@ -73,7 +73,7 @@ Descreva como o LED se comportou ao pressionar e soltar o botão. Explique como 
 
 Agora, faça o LED alternar entre ligado e desligado a cada aperto do botão.
 
-* **Código Fonte:** [m1_atividade2_questaoC.ino](../codigos/modulo1/m1_atividade2_questaoC.ino)
+* **Código Fonte:** [m1_atividade2_questaoC.ino](../../codigos/modulo1/m1_atividade2_questaoC.ino)
 
 
 ```cpp
