@@ -13,13 +13,16 @@ O projeto foi dividido em módulos progressivos de aprendizagem, separando os re
 ```text
 .
 ├── README.md               # Documentação principal do repositório
-├── figuras/                # Imagens e esquemas de ligação dos circuitos
-│   └── apendice/
-│       ├── atividade1.png
-│       ├── ...
-│       └── atividade13.png
+├── doc/                    # Arquivos em .pdf da Sequência Didática. 
+│   ├── apendice-a-modulo-1.pdf
+│   ├── apendice-b-modulo-2.pdf
+│   └── apendice-c-modulo-3.pdf
 │
 ├── modulos/                # Roteiros e Guias de Atividades (.md)
+|   ├── figuras/            # Imagens e esquemas de ligação dos circuitos
+│   |   ├── atividade1.png
+│   |   ├── ...
+│   |   └── atividade13.png
 │   ├── modulo1/
 │   │   ├── m1_atividade1.md
 │   │   ├── m1_atividade2.md
