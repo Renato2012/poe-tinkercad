@@ -8,13 +8,13 @@
 1. Abra o Tinkercad e monte o circuito contendo três LEDs conectados aos pinos D3, D4 e D5, cada um com resistor de 220 $\Omega$.
 2. Após revisar as conexões, programe o Arduino conforme as questões A, B e C.
 
-![Esquema de ligação com três LEDs sequenciais](../modulos/figuras/atividade3.png)
+![Esquema de ligação com três LEDs sequenciais](../figuras/atividade3.png)
 
 ---
 
 ## Questão A — Acionamento Independente
 
-* **Código Fonte:** [m1_atividade3_questaoA.ino](codigos/modulo1/m1_atividade3_questaoA.ino)
+* **Código Fonte:** [m1_atividade3_questaoA.ino](../../codigos/modulo1/m1_atividade3_questaoA.ino)
 
 ```cpp
 void setup() {
@@ -43,7 +43,7 @@ Após simular, descreva quais LEDs acenderam e explique por que somente a porta 
 
 ## Questão B — Dois LEDs Simultâneos
 
-* **Código Fonte:** [m1_atividade3_questaoB.ino](codigos/modulo1/m1_atividade3_questaoB.ino)
+* **Código Fonte:** [m1_atividade3_questaoB.ino](../../codigos/modulo1/m1_atividade3_questaoB.ino)
 
 ```cpp
 void setup() {
@@ -71,7 +71,7 @@ Após simular, explique o comportamento dos LEDs e descreva como o Arduino conse
 
 ## Questão C — Sequência de Piscar
 
-* **Código Fonte:** [m1_atividade3_questaoC.ino](codigos/modulo1/m1_atividade3_questaoC.ino)
+* **Código Fonte:** [m1_atividade3_questaoC.ino](../../codigos/modulo1/m1_atividade3_questaoC.ino)
 
 ```cpp
 void setup() {
