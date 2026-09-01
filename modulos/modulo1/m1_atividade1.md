@@ -5,7 +5,7 @@
 
 ## Atividade Computacional -- Etapas
 1. Acesse a plataforma *Tinkercad* e crie um novo circuito.
-2. Transfira para o ambiente virtual o esquema de ligação da [Figura 1](modulos/figuras/atividade1.png), que consiste em:
+2. Transfira para o ambiente virtual o esquema de ligação da [Figura 1](../figuras/atividade1.png), que consiste em:
    - LED conectado à porta digital D9;
    - Resistor de 220 $\Omega$ em série;
    - Retorno do LED ao GND.
@@ -19,7 +19,7 @@
 Após montar o circuito no *Tinkercad*, programe a porta digital D9 em nível lógico LOW ($0\,V$).
 
 ### Código
-O código correspondente está salvo no arquivo [m1_atividade1_questaoA.ino](codigos/modulo1/m1_atividade1_questaoA.ino).
+O código correspondente está salvo no arquivo [m1_atividade1_questaoA.ino](../../codigos/modulo1/m1_atividade1_questaoA.ino).
 
 ```cpp
 void setup() {
@@ -44,7 +44,7 @@ Após executar a simulação: Descreva o comportamento do LED e explique por que
 Agora, altere o código para configurar a porta D9 em nível lógico HIGH ($5\,V$).
 
 ### Código
-O código correspondente está salvo no arquivo [m1_atividade1_questaoB.ino](codigos/modulo1/m1_atividade1_questaoB.ino).
+O código correspondente está salvo no arquivo [m1_atividade1_questaoB.ino](../../codigos/modulo1/m1_atividade1_questaoB.ino).
 
 ```cpp
 void setup() {
@@ -69,7 +69,7 @@ Após iniciar a simulação: Descreva o comportamento observado do LED e expliqu
 Agora, modifique o programa para alternar o estado do LED a cada 1 segundo.
 
 ### Código
-O código correspondente está salvo no arquivo [m1_atividade1_questaoC.ino](codigos/modulo1/m1_atividade1_questaoC.ino).
+O código correspondente está salvo no arquivo [m1_atividade1_questaoC.ino](../../codigos/modulo1/m1_atividade1_questaoC.ino).
 
 
 ```cpp
