@@ -11,7 +11,7 @@
    - Retorno do LED ao GND.
 3. Após revisar as conexões, programe o Arduino conforme as questões A, B e C.
 
-![Figura 1 – Esquema de ligação – LED simples.](modulos/figuras/atividade1.png)
+![Figura 1 – Esquema de ligação – LED simples.](../figuras/atividade1.png)
 
 ---
 
